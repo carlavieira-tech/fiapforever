@@ -1,0 +1,33 @@
+body {
+    background-color: #;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #91867D;
+    font-size: 20px; 
+    text-align: center;
+    margin: auto;
+}
+
+form>input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: #9512ec;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: #F88372;
+}
+h3 {
+    color: #91867D;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #F88372;
+    font-size: 20px;
+    border: #F88372;
+    
+}
+
+ 
